@@ -7,8 +7,8 @@ ExcelBot is an AI-powered tool designed to generate accurate Excel formulas base
 - [ ] SQL Query Generator AI
 - [ ] Regex Generator AI
 - [ ] Template Generator AI
+- [ ] Adding support for Google Sheets and Airtable.
 - [ ] Extensions for Excel and Google Sheets.
-- [ ] Also adding support for Google Sheets and Airtable.
 
 # Contributor Guidelines
 
