@@ -5,7 +5,7 @@ from openai import OpenAI
 def get_formula(prompt, platform):
     client = OpenAI(
         base_url="https://api.groq.com/openai/v1",
-        api_key="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"
+        api_key=ENTER_YOUR_API_KEY
     )
     system_content = (
         "You're a Bot developed by Ansh Gupta. You can provide formulas for any query given by the user. "
