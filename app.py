@@ -42,6 +42,6 @@ prompt = st.text_input("Enter your Excel query:")
 if st.button("Generate Formula"):
     if prompt:
         formula = get_excel_formula(prompt)
-        st.text_area("Generated Excel Formula:", value=formula, height=100)
+        st.text_area("Generated Excel Formula:", value=formula, height=200)
     else:
         st.error("Please enter a query.")
